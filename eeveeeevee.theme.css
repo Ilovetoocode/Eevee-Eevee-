@@ -1,0 +1,58 @@
+/**
+ * @name Eevee? Eevee!
+ * @version 1.0.6.3
+ * @description A translucent/frosted glass Discord theme
+ * @author CapnKitten
+ * @website http://github.com/CapnKitten
+ * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Translucence/css/source.css
+ * @donate https://paypal.me/capnkitten
+ * @invite jzJkA6Z
+ * @BDEditor Translucence
+*/
+
+@import url('https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+
+:root {
+  --app-bg: url('https://wallpapercave.com/dwp1x/wp2725649.jpg');
+  --app-blur: 0px;
+  --app-margin: 24px;
+  --app-radius: 8px;
+  --accent-hue: 210;
+  --accent-saturation: 68%;
+  --accent-lightness: 50%;
+  --accent-opacity: 1;
+  --sidebar-color: rgb(47,57,239,0.3);
+  --main-content-color: rgb(47,57,239,0.3);
+  --undefined: 0;
+  --interactive-normal: #aaa;
+  --interactive-hover: #ddd;
+  --interactive-active: #fff;
+  --interactive-muted: #777;
+  --undefined: 0;
+  --background-modifier-hover: rgb(231,196,16,0.14);
+  --background-modifier-selected: rgb(255,183,0,0.3);
+  --message-color: rgb(28,153,27,0.28);
+  --message-radius: 8px;
+  --message-padding-top: 8px;
+  --message-padding-side: 8px;
+  --undefined: 0;
+  --reply-hue: 260;
+  --reply-saturation: 77%;
+  --reply-lightness: 61%;
+  --reply-opacity: 1;
+  --textarea-color: 255,255,255;
+  --textarea-alpha: 0.05;
+  --textarea-alpha-focus: 0.15;
+  --textarea-radius: 22px;
+  --card-color: rgb(0,0,0,0.4);
+  --card-color-hover: rgb(0,0,0,0.5);
+  --card-color-select: rgba(0,0,0,0.7);
+  --button-height: 32px;
+  --button-padding: 0 16px;
+  --button-radius: 16px;
+}
+
+/* Any custom CSS below here */
+
+
